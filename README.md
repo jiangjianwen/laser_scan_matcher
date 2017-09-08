@@ -1,5 +1,5 @@
 # PLICP scan matcher for ROS
-An incremental laser scan matcher, using PLICP(point-to-line iterative closest point) scan matching algorithm.
+An incremental laser scan matcher, using PLICP (point-to-line iterative closest point) scan matching algorithm.
 
 ## How to use on Ubuntu?
     1.This package I have tested well on Ubuntu 16.04 LTS, and my version of ROS is kinetic.
