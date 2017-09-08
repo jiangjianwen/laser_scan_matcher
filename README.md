@@ -17,5 +17,6 @@ An incremental laser scan matcher, using PLICP(point-to-line iterative closest p
 ## Thanks
 
 [1] A. Censi, "An ICP variant using a point-to-line metric" Proceedings of the IEEE International Conference on Robotics and Automation (ICRA), 2008
+
 [2] https://github.com/ccny-ros-pkg/scan_tools
 
