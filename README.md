@@ -1,7 +1,7 @@
-# laser_scan_matcher
+# PLICP scan matcher for ROS
 An incremental laser scan matcher, using PLICP(point-to-line iterative closest point) scan matching algorithm.
 
-# References
+## References
 
 [1] A. Censi, "An ICP variant using a point-to-line metric" Proceedings of the IEEE International Conference on Robotics and Automation (ICRA), 2008
 
