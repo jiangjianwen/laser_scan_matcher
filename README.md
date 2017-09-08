@@ -3,8 +3,15 @@ An incremental laser scan matcher, using PLICP(point-to-line iterative closest p
 
 ## How to use on Ubuntu?
     1.This package I have tested well on Ubuntu 16.04 LTS, and my version of ROS is kinetic.
+    
     2.If you want to use it ,you must install csm first:
         $ sudo apt-get install ros-kinetic-csm
+        
+    3.clone and cantkin_make
+        $ cd catkin_ws/src/
+        $ git clone https://github.com/WENJIAN0629/laser_scan_matcher
+        $ cd..
+        $ catkin_make
   
 
 ## References
