@@ -20,3 +20,6 @@ An incremental laser scan matcher, using PLICP(point-to-line iterative closest p
 
 [2] https://github.com/ccny-ros-pkg/scan_tools
 
+[3] https://github.com/ros-perception/open_karto
+
+[4] https://github.com/ros-perception/slam_karto
