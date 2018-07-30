@@ -1,5 +1,5 @@
 # Laser Scan Matcher for ROS
-An incremental laser scan matcher, using PLICP (point-to-line iterative closest point) scan matching algorithm.
+The repo is the implementation of Point-to-Line Iterative Closest Point (PL-ICP) algorithm proposed by Censi [1]. The original code can be found in [2]. However, there are some bug about ROS tf transform in the original code. I fixed the bug and added the mapping module following the programming habits in open karto library[3][4].
 
 ## How to use on Ubuntu?
     1. This package has been tested well on Ubuntu 16.04 LTS, and the version of ROS is kinetic.
